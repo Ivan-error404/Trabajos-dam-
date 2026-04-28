@@ -1,0 +1,30 @@
+// 1
+function Persona (nombre, edad, ciudad) {
+    this.nombre = nombre;
+    this.edad = edad;
+    this.ciudad = ciudad;
+
+    
+}
+
+let p1 = new Persona("Ana", 20, "Madrid");
+let p2 = new Persona("Luis", 25, "Sevilla");
+let p3 = new Persona("Pepe", 5, "Valencia");
+
+console.log(p1.nombre);
+console.log(p2.ciudad);
+
+let texto = "<ul>";
+// 2
+texto += "<li>" + p1.nombre + " tiene " + p1.edad + " años y vive en " + p1.ciudad + "</li>";
+texto += "<li>" + p2.nombre + " tiene " + p2.edad + " años y vive en " + p2.ciudad + "</li>";
+texto += "<li>" + p3.nombre + " tiene " + p3.edad + " años y vive en " + p3.ciudad + "</li>";
+texto += "</ul>";
+
+document.getElementById("resultado").innerHTML = texto;
+
+
+
+
+
+

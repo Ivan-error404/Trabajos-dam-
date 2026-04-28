@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ejercicio 2 formulario</title>   
+	<link rel="stylesheet" href="estilos.css">
+	
+</head>
+	<body>
+	 <form action="/procesar-formulario" method="post">
+	 
+        <div>
+            <label for="Concepto">Nombre de usario:</label>
+            <input type="text" id="concepto" name="Concepto" required placeholder="Ej:  Escribe tu Nombre">
+        </div>
+        <div>
+            <label for="email">Correo electronico:</label>
+            <input type="text" id="Cantidad" name="Concepto" required placeholder="Ej: ejemplo@correo.com">
+       <p>Género:</p>
+            <input type="radio" id="hombre" name="genero" value="hombre" required>
+            <label for="hombre">Hombre</label>
+			<input type="radio" id="hombre" name="genero" value="hombre" required>
+            <label for="hombre">Mujer</label>
+	   </div>
+          <hr>
+        <div>
+            <button type="submit">Registrar</button>
+			<button type="reset">Borrar Datos</button>
+			<button type="button" onclick="saludar()">Saludar</button>
+         
+        </div>
+		<script>
+        function saludar() {
+            alert("hola");
+        }
+    </script>
+    </form>
+</body>
+
+</html>
+		<tr>
+		<th rowspan ="1"> </th>
+	</tr>

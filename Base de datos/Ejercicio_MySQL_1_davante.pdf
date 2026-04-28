@@ -1,0 +1,590 @@
+{\rtf1\ansi\deff0\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset0 Cambria;}{\f4\froman\fprq2\fcharset0 Calibri;}{\f5\fnil\fprq2\fcharset0 Microsoft YaHei;}{\f6\fnil\fprq2\fcharset0 Arial;}{\f7\fswiss\fprq0\fcharset128 Arial;}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green0\blue10;}
+{\stylesheet{\s0\snext0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082 Normal;}
+{\s15\sbasedon0\snext16\sb240\sa120\keepn\dbch\af5\dbch\af6\afs28\loch\f2\fs28 Heading;}
+{\s16\sbasedon0\snext16\sl276\slmult1\sb0\sa140 Text Body;}
+{\s17\sbasedon16\snext17\sl276\slmult1\sb0\sa140\dbch\af7 List;}
+{\s18\sbasedon0\snext18\sb120\sa120\noline\i\dbch\af7\afs24\ai\fs24 Caption;}
+{\s19\sbasedon0\snext19\noline\dbch\af7 Index;}
+}{\*\generator Neat_Office/6.2.8.2$Windows_x86 LibreOffice_project/}{\info{\creatim\yr0\mo0\dy0\hr0\min0}{\revtim\yr2025\mo12\dy19\hr12\min12}{\printim\yr0\mo0\dy0\hr0\min0}}{\*\userprops}\deftab720
+\viewscale100
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse451\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\pgdscnxt0 Default Style;}}
+\formshade{\*\pgdscno0}\paperh15840\paperw12240\margl1440\margr1440\margt1440\margb1440\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1440\margrsxn1440\margtsxn1440\margbsxn1440\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+{\*\ftnsep\chftnsep}\pgndec\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl240\slmult1\qc\nowidctlpar\hyphpar0{\b\highlight8\rtlch \ltrch\loch\fs56\lang3082\loch\f3\hich\af3
+Ejercicio  en MySQL}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx2404\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8493\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\b\highlight7\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\b\highlight7\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+Nombre Alumno:}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\b\highlight7\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\b\highlight7\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+___________}{\b\highlight7\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+Ivan Navarro Carmona}{\b\highlight7\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+_________________}\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\b\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\b\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+debes indicar la }{\ul\ulc0\b\rtlch \ltrch\loch\fs28\lang3082\loch\f3\hich\af3
+sentencia exacta}{\ulnone\ulc0\b\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+ que has utilizado y }{\ul\ulc0\b\rtlch \ltrch\loch\fs28\lang3082\loch\f3\hich\af3
+mostrar el resultado}{\ul\ulc0\b\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+. }{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs24\lang3082\loch\f3\hich\af3
+ }
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\rtlch \ltrch\loch
+\line }{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+1. Crea una base de datos llamada \u8220\'93Mundo\u8221\'94:}
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+create database Mundo;}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+2. Dentro de la base de datos \u8220\'93Mundo\u8221\'94, crea la tabla \u8220\'93Naciones\u8221\'94 que tenga "id" y "pa\u237\'eds":}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- Id debe ser la clave primaria, tipo int, con autoincremento a partir de 30 }{\rtlch \ltrch\loch
+\line }{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- Pa\u237\'eds debee ser de tipo varchar( )}{\rtlch \ltrch\loch
+\line }{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- Ninguno debe aceptar nulos}{\rtlch \ltrch\loch
+\line }
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+show databases;}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\fs22\lang3082\loch\f4\hich\af4
+ }{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+use mundo;}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+create table nacione (id int key auto_increment not null, pais varchar(30) not null) auto_increment=30;}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+describe nacione;}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+3. Con ALTER TABLE a\u241\'f1ade los campos Capital y Continente que deben ser de tipo varchar( ) y no debe aceptar nulos:}{\rtlch \ltrch\loch
+\line }
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+alter table nacione add continente varchar(30);}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+alter tab}{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+le  Capital }{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+add continente varchar(30);}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+4. Con ALTER TABLE a\u241\'f1ade el campo Habitantes_miles que ser int y por defecto 1 mill\u243\'f3n y no acepte nulos:}{\rtlch \ltrch\loch
+\line }
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+ALTER TABLE nacione ADD Habitantes_miles INT NOT NULL DEFAULT 1000000;}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+5. Realiza las inserciones correspondientes para que la tabla tenga este contenido:}
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrt\brdrs\brdrw2\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3257\clbrdrt\brdrs\brdrw2\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5241\clbrdrt\brdrs\brdrw2\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx6799\clbrdrt\brdrs\brdrw2\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx8504\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Id}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Pa\u237\'eds}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Capital}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Continente}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Habitantes_miles}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3257\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5241\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx6799\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx8504\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+30}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Marruecos}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Rabat}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\u193\'c1frica}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+34000}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3257\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5241\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx6799\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx8504\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+31}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Per\u250\'fa}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Lima}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Am\u233\'e9rica}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+32000}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3257\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5241\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx6799\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx8504\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+32}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Ucrania}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Kiev}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Europa}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+42000}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3257\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5241\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx6799\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx8504\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+33}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Irak}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Bagdad}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Asia}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+40000}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3257\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5241\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx6799\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx8504\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+34}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Arabia Saudita}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Riad}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Asia}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+33000}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx3257\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx5241\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6799\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx8504\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+35}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Alemania}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Berl\u237\'edn}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Europa}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+84000}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx3257\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx5241\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6799\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx8504\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+36}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Vietnam}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Han\u243\'f3i}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Asia}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+95000}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3257\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5241\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx6799\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx8504\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+37}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Jamaica}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Kingston}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Am\u233\'e9rica}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+2700}\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+insert into nacione (pais,capital,continente,habitantes_miles)values ("marruecos","rabat","Africa",34000);}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b\rtlch \ltrch\fs22\lang3082\loch\f4\hich\af4
+ }{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+insert into nacione (pais,capital,continente,habitantes_miles)values ("Peru","Lima","America",32000);}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+insert into nacione (pais,capital,continente,habitantes_miles)values ("Ucrania","Kiev","Europa",42000);}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\ulnone\ulc0\b0\rtlch \ltrch\fs22\lang3082\loch\f4\hich\af4
+ }{\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+insert into nacione (pais,capital,continente,habitantes_miles)values ("Irak","Bagdad","Asia",40000);}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\pagebb\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+6. Elimina solo la fila de Vietnam:}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\pagebb\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+7. Realiza una consulta que muestre los continentes de la tabla sin repeticiones usando 2 comandos distintos:}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Forma 1:}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Forma 2:}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+8. \u191\'bfTe han salido de las dos formas el mismo orden en las filas? Explica a qu\u233\'e9 se debe ese resultado:}
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+9. Realiza una consulta que muestre los continentes de la tabla sin repeticiones y la cantidad de pa\u237\'edses que hay en la tabla por cada continente (es decir, 2 columnas):}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\pagebb\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+10. Vuelve a mostrar la lista de continentes existentes (sin repeticiones) y adem\u225\'e1s otra columna que se llame \u8220\'93media\u8221\'94, con la media de habitantes entre los pa\u237\'edses de ese continente (es decir, 2 columnas en total):}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+11. Realiza la misma consulta anterior, pero en esta ocasi\u243\'f3n para hacer la media no hay que tener en cuenta los pa\u237\'edses de menos de 10 millones de habitantes (\u243\'f3sea sin Jamaica):}{\rtlch \ltrch\loch
+\line }{\i\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+(deber\u237\'edan salirte las mismas medias de antes excepto para Am\u233\'e9rica)}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\pagebb\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+12. Realiza una consulta que muestre 5 columnas:}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- continente , con todos los continentes de la lista sin repetir}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- media, con la media de los habitantes de los pa\u237\'edses de un continente}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- numero, con el n\u250\'famero de pa\u237\'edses en ese continente}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- m\u225\'e1xima_pob: con el n\u250\'famero de habitantes que hay en el pa\u237\'eds con m\u225\'e1s poblaci\u243\'f3n de ese continente}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- m\u237\'ednima_pob: con el n\u250\'famero de habitantes que hay en el pa\u237\'eds con menos poblaci\u243\'f3n de ese continente}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Para dicha consulta no deben tenerse en cuenta solo los pa\u237\'edses con menos de 90 millones de habitantes (osea sin Vietnam):}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0{\i0\ulnone\ulc0\b\rtlch \ltrch\fs22\lang3082\loch\f4\hich\af4
+ }\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+13. Realiza la misma consulta de antes pero que solo muestre los continentes que tengan m\u225\'e1s de un pa\u237\'eds: }{\rtlch \ltrch\loch
+\line }{\i\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+(\u193\'c1frica no deber\u237\'eda salir)}
+\par \trowd\trql\trleft0\ltrrow\trrh3313\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\pagebb\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\pagebb\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+15.Realiza la consulta que muestre la lista de pa\u237\'edses ordenados por habitantes de menor a mayor:}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+16. Realiza la misma consulta anterior pero solo deben mostrarse el tercer, cuarto y quinto pa\u237\'eds con menos n\u250\'famero de habitantes:}{\rtlch \ltrch\loch
+\line }{\i\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+(Deber\u237\'edan salirte solo 3 filas con la informaci\u243\'f3n de Arabia Saudita, Marruecos e Irak)}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+17. Realiza la consulta que muestre los continentes existentes junto con otra columna llamada \u8220\'93suma\u8221\'94 con la suma de sus poblaciones.}
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+(deber\u237\'edan salir 2 columnas, una llamada \u8220\'93continente\u8221\'94 y otra \u8220\'93suma\u8221\'94)}
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\pagebb\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+18. Dentro de la base de datos \u8220\'93Mundo\u8221\'94, crea una tabla llamada \u8220\'93Ciudades\u8221\'94 que contenga lo siguiente:}
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw2\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrt\brdrs\brdrw2\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3256\clbrdrt\brdrs\brdrw2\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5240\clbrdrt\brdrs\brdrw2\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6800\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+cod}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Nombre}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Poblaci\u243\'f3n_miles}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Pa\u237\'eds}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3256\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5240\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6800\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+1}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Munich}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+1500}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+35}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3256\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5240\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6800\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+2}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Cuzco}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+200}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+31}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3256\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5240\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6800\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+3}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Trujillo}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+226}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+31}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3256\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5240\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6800\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+4}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Odesa}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+1020}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+32}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3256\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5240\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6800\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+5}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Mariupol}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+922}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+32}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx3256\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx5240\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6800\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+6}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Donetsk}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+1016}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+32}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx3256\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx5240\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6800\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+7}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Mosul}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+2000}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+33}\cell\row\pard\trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx847\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx3256\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clpadfr3\clpadr54\cellx5240\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw2\brdrcf1\clpadft3\clpadt54\clbrdrb\brdrs\brdrw2\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr54\cellx6800\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+8}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Karbala}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+800}\cell\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl256\slmult0\qc\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+33}\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- cod debe ser la clave primaria, tipo int, con autoincremento}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+-  Nombre debe ser de tipo varchar( )}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- Poblaci\u243\'f3n_miles debe ser tipo int}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- pa\u237\'eds debe ser tipo int y una clave ajena a la tabla naciones}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- la clave ajena debe colocar NULL cuando el registro referenciado en la tabla referenciado se elimine y debe actualizar su valor cuando el registro referenciado en la tabla referenciado modifique su valor.}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+- para que se puedan aplicar estas acciones, la tabla debe crearse de tipo InnoDB}{\rtlch \ltrch\loch
+\line }
+\par \trowd\trql\trleft-113\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf17\clbrdrl\brdrs\brdrw7\brdrcf17\clpadft3\clpadt110\clbrdrb\brdrs\brdrw7\brdrcf17\clbrdrr\brdrs\brdrw7\brdrcf17\clpadfr3\clpadr110\cellx8381\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\sb0\sa160\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\pagebb\sl256\slmult0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+19.Elimina el pa\u237\'eds \u8220\'93Alemania\u8221\'94 de la tabla naciones y explica que cambio ha habido en la tabla ciudades y por qu\u233\'e9:}{\rtlch \ltrch\loch
+\line }
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+20. Si volvi\u233\'e9ramos a introducir el pa\u237\'eds \u8220\'93Alemania\u8221\'94 dentro de la tabla naciones tal y como estaba antes de eliminarlo \u191\'bfvolver\u225\'e1 Munich a tener su referencia ajena en Alemania?}{\rtlch \ltrch\loch
+\line }{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Razona tu respuesta:}
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+21. Vuelve a insertar el pa\u237\'eds de \u8220\'93Alemania\u8221\'94 en la tabla \u8220\'93naciones\u8221\'94, no le indiques manualmente la id que ten\u237\'eda antes, deja que el sistema le asigne una id:}{\rtlch \ltrch\loch
+\line }{\i\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+Recuerda que su capital es Berl\u237\'edn, es de Europa y posee 84 millones de habitantes.}
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+22. Vuelve a asignarle a Munich el pa\u237\'eds de Alemania como clave ajena:}
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\sb0\sa160\rtlch \ltrch\loch
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\pagebb\sl256\slmult0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+23. Intercambia los ID de Per\u250\'fa y Ucrania, es decir, Per\u250\'fa tendr\u225\'e1 el ID de Ucrania y Ucrania el  ID de Per\u250\'fa. Comprueba que pasa con las claves ajenas de las ciudades de Per\u250\'fa y Ucrania en la tabla \u8220\'93ciudades\u8221\'94:}{\rtlch \ltrch\loch
+\line }
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160{\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+24. Realiza una consulta que muestre una columna \u8220\'93c\u243\'f3digo_del_pais\u8221\'94 con el \u8220\'93cod\u8221\'94 del pa\u237\'eds correspondiente y otra columna llamada \u8220\'93menor_pob\u8221\'94 con la cantidad de habitantes de su ciudad m\u225\'e1s peque\u241\'f1a de la tabla \u8220\'93ciudades\u8221\'94:}
+\par \trowd\trql\trleft0\ltrrow\trrh1\trpaddft3\trpaddt0\trpaddfl3\trpaddl0\trpaddfb3\trpaddb0\trpaddfr3\trpaddr0\clbrdrt\brdrs\brdrw7\brdrcf1\clbrdrl\brdrs\brdrw7\brdrcf1\clpadft3\clpadt108\clbrdrb\brdrs\brdrw7\brdrcf1\clbrdrr\brdrs\brdrw7\brdrcf1\clpadfr3\clpadr108\clcbpat8\cellx8494\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+
+\par \pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\intbl\sl240\slmult1\nowidctlpar\hyphpar0\i0\ulnone\ulc0\b0\rtlch \ltrch\loch\fs22\lang3082\loch\f4\hich\af4
+\cell\row\pard\pard\plain \s0\nowidctlpar\hyphpar0\cf0\kerning1\dbch\af8\langfe2052\dbch\af6\afs24\alang1081\loch\f0\hich\af0\fs24\lang3082\sl256\slmult0\nowidctlpar\hyphpar0\sb0\sa160\rtlch \ltrch\loch
+
+\par }

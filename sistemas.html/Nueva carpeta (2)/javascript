@@ -1,0 +1,18 @@
+var a = 10;
+var b =5;
+
+
+console.log("resultado: " + (a + b ));
+
+var dni = prompt("Introduce tu numero de DNI  de 8 cifras (sin letra)" );
+
+console.log(dni);
+
+
+var numero = parseInt(dni, 10);
+var letra= numero % 18;
+
+var letras = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R"];
+var letraf = letras[letra];
+
+    alert("Tu DNI completo es: " + dni + letraf);

@@ -1,0 +1,125 @@
+-- ============================================================
+--  Base de datos generada desde Base_de_Datos_2_0.drawio
+--  Motor: InnoDB | Charset: utf8mb4
+-- ============================================================
+
+CREATE DATABASE IF NOT EXISTS Multimedia
+  CHARACTER SET utf8mb4
+  COLLATE utf8mb4_unicode_ci;
+
+USE Multimedia;
+
+-- ------------------------------------------------------------
+-- 1. Entretenimiento
+--    Sin dependencias externas, se crea primero.
+-- ------------------------------------------------------------
+CREATE TABLE Entretenimiento (
+    ID_Entretenimiento  INT             NOT NULL AUTO_INCREMENT,
+    TituloEspecifico    VARCHAR(255)    NOT NULL,
+    Titulo              VARCHAR(255)    NOT NULL,
+    Creador             VARCHAR(255),
+    TipoEntretenimiento VARCHAR(100),
+    PRIMARY KEY (ID_Entretenimiento)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+-- ------------------------------------------------------------
+-- 2. Personaje
+--    Depende de Entretenimiento (relación 1:N desde Entretenimiento).
+-- ------------------------------------------------------------
+CREATE TABLE Personaje (
+    ID_Personaje        INT             NOT NULL AUTO_INCREMENT,
+    Nombre              VARCHAR(255)    NOT NULL,
+    Titulo              VARCHAR(255),
+    ID_Entretenimiento  INT             NOT NULL,
+    PRIMARY KEY (ID_Personaje),
+    CONSTRAINT fk_personaje_entretenimiento
+        FOREIGN KEY (ID_Entretenimiento)
+        REFERENCES Entretenimiento(ID_Entretenimiento)
+        ON UPDATE CASCADE
+        ON DELETE RESTRICT
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+-- ------------------------------------------------------------
+-- 3. InfoPersonaje  (relación 1:1 con Personaje)
+--    Cada personaje tiene exactamente un registro de info.
+-- ------------------------------------------------------------
+CREATE TABLE InfoPersonaje (
+    ID_InfoPersonaje    INT             NOT NULL AUTO_INCREMENT,
+    ID_Personaje        INT             NOT NULL UNIQUE,   -- UNIQUE garantiza 1:1
+    Vive_Muere          TINYINT(1),                        -- Bool → TINYINT(1) en MySQL
+    Nacimiento          DATE,
+    Altura              FLOAT,
+    PRIMARY KEY (ID_InfoPersonaje),
+    CONSTRAINT fk_info_personaje
+        FOREIGN KEY (ID_Personaje)
+        REFERENCES Personaje(ID_Personaje)
+        ON UPDATE CASCADE
+        ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+-- ------------------------------------------------------------
+-- 4. Conexion  (tabla intermedia N:M entre Personaje y Personaje,
+--    y 1:N con Momentos)
+--    Representa la relación entre dos personajes dentro de un
+--    mismo entretenimiento o cruzado.
+-- ------------------------------------------------------------
+CREATE TABLE Conexion (
+    ID_Conexion         INT             NOT NULL AUTO_INCREMENT,
+    TipoRelacion        VARCHAR(100),
+    TITULO              VARCHAR(255),
+    Escenas_conjuntas   VARCHAR(255),
+    Parejas             VARCHAR(255),
+    PRIMARY KEY (ID_Conexion)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+-- ------------------------------------------------------------
+-- 5. Tabla intermedia: Personaje_Conexion  (N:M Personaje ↔ Conexion)
+--    Un personaje puede tener muchas conexiones y una conexión
+--    puede involucrar a muchos personajes.
+-- ------------------------------------------------------------
+CREATE TABLE Personaje_Conexion (
+    ID_Personaje        INT NOT NULL,
+    ID_Conexion         INT NOT NULL,
+    PRIMARY KEY (ID_Personaje, ID_Conexion),
+    CONSTRAINT fk_pc_personaje
+        FOREIGN KEY (ID_Personaje)
+        REFERENCES Personaje(ID_Personaje)
+        ON UPDATE CASCADE
+        ON DELETE CASCADE,
+    CONSTRAINT fk_pc_conexion
+        FOREIGN KEY (ID_Conexion)
+        REFERENCES Conexion(ID_Conexion)
+        ON UPDATE CASCADE
+        ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+-- ------------------------------------------------------------
+-- 6. Momentos  (1:N con Conexion → cada conexión tiene varios momentos)
+-- ------------------------------------------------------------
+CREATE TABLE Momentos (
+    ID_Momentos         INT             NOT NULL AUTO_INCREMENT,
+    Dialogo             TEXT,
+    Elementos           TEXT,
+    ID_Conexion         INT             NOT NULL,
+    PRIMARY KEY (ID_Momentos),
+    CONSTRAINT fk_momentos_conexion
+        FOREIGN KEY (ID_Conexion)
+        REFERENCES Conexion(ID_Conexion)
+        ON UPDATE CASCADE
+        ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+
+-- ============================================================
+--  RESUMEN DE RELACIONES
+-- ============================================================
+--  Entretenimiento  1 ── N  Personaje           (fk_personaje_entretenimiento)
+--  Personaje        1 ── 1  InfoPersonaje        (fk_info_personaje, UNIQUE)
+--  Personaje        N ── M  Conexion             (tabla Personaje_Conexion)
+--  Conexion         1 ── N  Momentos             (fk_momentos_conexion)
+-- ============================================================

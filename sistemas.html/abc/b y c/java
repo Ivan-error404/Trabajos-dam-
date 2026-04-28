@@ -1,0 +1,29 @@
+// 1
+function Persona (nombre, edad, ciudad) {
+    this.nombre = nombre;
+    this.edad = edad;
+    this.ciudad = ciudad;
+
+    this.visualizar = function() {
+       let mensaje = (`${this.nombre} tiene ${this.edad} años y vive ${this.ciudad}.`);
+    return mensaje;
+    }
+}
+
+
+let p1 = new Persona("Ana", 20, "Madrid");
+let p2 = new Persona("Luis", 25, "Sevilla");
+let p3 = new Persona("Pepe", 5, "Valencia");
+
+console.log(p1.nombre);
+console.log(p2.ciudad);
+
+let texto = "<ul>";
+
+texto += "<li>" + p1.visualizar() + "</li>";
+texto += "<li>" +  p2.visualizar() +"</li>";
+texto += "<li>" + p3.visualizar() + "</li>";
+texto += "</ul>";
+
+document.getElementById("resultado").innerHTML = texto;
+

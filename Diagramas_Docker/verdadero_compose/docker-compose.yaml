@@ -1,0 +1,34 @@
+version: '3.8'
+services:
+  wordpress:
+    image: wordpress
+    ports:
+      -"8080:80"
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: Asir
+      WORDPRESS_DB_PASSWORD: Asir
+      WORDPRESS_DB_NAME: dbAsir
+    restart: always
+    depends_on:
+    - db
+
+  db:
+    image: mysql:8.0
+    restart: always
+    ports:
+    - "3307:3306"
+    enviorement:
+      MYSQL_ROOT_PASSWORD: Asir
+      MYSQL_DATABASES: dbAsir
+      MYSQL_USER: Asir
+      MYSQL_PASSWORD: Asir
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    ports:
+    - "8081:80"
+    enviaronment:
+      PMA_HOST: db
+      MYSQL_ROOT_PASSWORD: Asir
+    depends_on:
+    - db

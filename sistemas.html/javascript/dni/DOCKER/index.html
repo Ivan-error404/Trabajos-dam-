@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>_______Mi Web Amarilla ______________________no se soy ciego </title>
+    <link href="https://fonts.googleapis.com" rel="stylesheet">
+    <style>
+        /* Paleta de colores: #FFD700 (Amarillo Oro), #1A1A1B (Oscuro) */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        body {
+            background-color: #fffdec;
+            color: #1a1a1b;
+        }
+
+        /* Navegación */
+        nav {
+            background: #FFD700;
+            padding: 1.2rem 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            box-shadow: 0 4px 2px -2px rgba(0,0,0,0.1);
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li { margin-left: 25px; }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #1a1a1b;
+            font-weight: 700;
+            font-size: 0.9rem;
+        }
+
+        /* Sección Hero */
+        .hero {
+            background-color: #FFD700;
+            padding: 100px 5%;
+            text-align: center;
+            clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%); /* Corte diagonal moderno */
+        }
+
+        .hero h1 {
+            font-size: 4rem;
+            font-weight: 900;
+            line-height: 1;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            max-width: 700px;
+            margin: 0 auto 30px;
+            font-weight: 400;
+        }
+
+        .btn {
+            display: inline-block;
+            background: #1a1a1b;
+            color: #FFD700;
+            padding: 15px 40px;
+            text-decoration: none;
+            font-weight: 700;
+            border-radius: 50px;
+            transition: all 0.3s ease;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            background: #333;
+        }
+
+        /* Contenedor de Tarjetas */
+        .container {
+            padding: 80px 5%;
+            max-width: 1200px;
+            margin: auto;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .card {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            border-bottom: 5px solid #FFD700;
+            transition: 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(255, 215, 0, 0.2);
+        }
+
+        .card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+        }
+
+        /* Footer */
+        footer {
+            background: #1a1a1b;
+            color: #FFD700;
+            text-align: center;
+            padding: 50px;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <div class="logo">YELLOW.CO</div>
+        <ul>
+            <li><a href="#">FINAL</a></li>
+            <li><a href="#">SUEÑOS</a></li>
+            <li><a href="#"> No Me CONTACTES</a></li>
+        </ul>
+    </nav>
+
+    <section class="hero">
+        <h1>BRILLA CON TU<br> --he sido editado --PROPIO ESTILO</h1>
+        <p>Un diseño vibrante que ha sido modificado sede la maquina local, audaz y minimalista . Totalmente adaptable a cualquier dispositivo.</p>
+        <a href="#" class="btn">SABER MÁS</a>
+    </section>
+
+    <div class="container">
+        <div class="grid">
+            <div class="card">
+                <h3>Diseño Audaz</h3>
+                <p>El amarillo transmite energía y optimismo. Perfecto para marcas creativas , startups modernas y sueños rotos.</p>
+            </div>
+            <div class="card">
+                <h3>Tipografía Pro</h3>
+                <p>Usamos Montserrat para darle ese toque robusto y profesional que tu proyecto no lo merece. pero lo haremos igual </p>
+            </div>
+            <div class="card">
+                <h3>Velocidad</h3>
+                <p>Código limpio, sin librerías pesadas. Carga instantánea para los usuario .</p>
+            </div>
+        </div>
+           <div class="card">
+                <h3>_En contrucion_</h3>
+                <p> Muy abajo has bajado de esta web </p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p><strong>YELLOW.CO</strong> &copy; 2077 - Diseñando el futuro</p>
+    </footer>
+
+</body>
+</html>

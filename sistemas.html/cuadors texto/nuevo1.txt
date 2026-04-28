@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>E</title>   
+</head>
+	<body>
+	
+	<table border="1">
+
+	<tr>
+	<th colspan="3">Horario</th>
+	</tr>
+		
+	<tr>
+		<th>     Gabriel Gaecia Marquez     </th>
+		<th>      Isabeel Allende    </th>
+		<th>      Cristobal Colon    </th>
+	</tr>
+	
+	<tr>
+	<td rowspan="2">HTML         </td>
+	<td>     20 h    </td>
+	<td>   16:00 - 18:00      </td>
+	</tr>
+
+	<tr>
+	<td>  15 h     </td>
+	<td>     18:00 - 20:00    </td>
+	<td>    40h    </td>
+	</tr>
+
+	<tfoot>
+	</tfoot>
+	</table>
+</body>
+</html>

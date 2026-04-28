@@ -1,0 +1,13 @@
+var a = 10;
+var b =5;
+
+console.log("resultado: " + (a + b ));
+
+var nombre = prompt("como,te llamas" );
+var edad = prompt("que tan viejo eres" );
+
+var años = 65 - edad;
+
+var final = edad - 2044;
+
+alert("hola " + nombre + " tienes " + años + " tendras estos años al jubilarte" + final );

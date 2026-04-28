@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<title>Ejemplo 4</title>
+<script defer src="operaciones1.js"></script>
+</head>
+<!--                                                   -->
+<body>
+<h1>
+    Creacion de tres objetos y su visualizacion
+</h1>
+
+<ul>
+  <li id="p1"  ></li>
+  <li id="p2"></li>
+  <!--<li id="3"></li>-->
+</ul>
+
+
+</body>
+</html>
+<!--                                                  -->

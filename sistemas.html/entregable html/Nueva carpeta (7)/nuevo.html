@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario ejer 7</title>
+</head>
+<body>
+  <p>Formulario de Ejercicio 7</p>
+  <form action="#" method="post">
+    
+ 
+    <fieldset>
+      <legend>Datos personales</legend>
+      <label for="nombre">Nombre:</label>
+      <input type="text" id="nombre" name="nombre"><br><br>
+
+      <label for="apellidos">Apellidos:</label>
+      <input type="text" id="apellidos" name="apellidos"><br><br>
+
+      <label for="correo">Correo electrónico:</label>
+      <input type="email" id="correo" name="correo">
+    </fieldset>
+    <br>
+
+    <fieldset>
+      <legend>Datos académicos</legend>
+      <input type="radio" id="eso" name="estudios" value="ESO">
+      <label for="eso">ESO</label><br>
+
+      <input type="radio" id="bachillerato" name="estudios" value="Bachillerato">
+      <label for="bachillerato">Bachillerato</label><br>
+
+      <input type="radio" id="universidad" name="estudios" value="Universidad">
+      <label for="universidad">Universidad</label>
+    </fieldset>
+    <br>
+
+  
+    <fieldset>
+      <legend>Preferencias</legend>
+      <input type="checkbox" id="musica" name="preferencias" value="musica">
+      <label for="musica">Música</label><br>
+
+      <input type="checkbox" id="deportes" name="preferencias" value="deportes">
+      <label for="deportes">Deportes</label><br>
+
+      <input type="checkbox" id="cine" name="preferencias" value="cine">
+      <label for="cine">Cine</label>
+    </fieldset>
+    <br>
+
+   
+    <input type="submit" value="Enviar">
+    <input type="reset" value="Borrar">
+  </form>
+</body>
+</html>

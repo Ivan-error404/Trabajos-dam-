@@ -1,0 +1,15 @@
+/* stilos*/
+/* parrafos en azul */
+p {
+  color: blue;
+}
+
+/*  clase importante en rojo */
+p.importante {
+  color: red;
+}
+
+/*href de color verde */
+a[href] {
+  color: green;
+}
